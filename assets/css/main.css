@@ -1656,7 +1656,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #4861f0;
+			background-color: #3f51b5;
 		}
 
 		input[type="button"].large,
@@ -1673,7 +1673,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #4861f0 url("images/overlay.png");
+			background: #3f51b5 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1682,7 +1682,7 @@ input, select, textarea {
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #4861f0;
+				background-color: #3f51b5;
 			}
 
 			input[type="button"].style1:active,
@@ -1690,7 +1690,7 @@ input, select, textarea {
 			input[type="reset"].style1:active,
 			button.style1:active,
 			.button.style1:active {
-				background-color: #4861f0;
+				background-color: #3f51b5;
 			}
 
 		input[type="button"].style2,
@@ -1853,7 +1853,7 @@ input, select, textarea {
 		}
 
 		.feature-list h3 {
-			color: #4861f0 !important;
+			color: #3f51b5 !important;
 			margin: -0.35em 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
@@ -2005,13 +2005,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #4861f0 url("images/overlay.png");
+			background: #3f51b5 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #4861f0 url("images/overlay.png");
+				background: #3f51b5 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -2264,7 +2264,7 @@ input, select, textarea {
 	}
 
 		#highlights .highlight h3 {
-			color: #4861f0;
+			color: #3f51b5;
 			margin: 0 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
