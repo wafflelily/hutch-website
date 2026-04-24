@@ -2286,7 +2286,7 @@ input, select, textarea {
 /* Features */
 
 	#features header.style1 {
-		padding-bottom: 5em;
+		padding-bottom: 3em;
 	}
 
 	#features header.style2 {
@@ -2319,7 +2319,8 @@ input, select, textarea {
 		background: #282b34 url("images/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
-		padding-bottom: 6em;
+		padding-bottom: 0em;
+		padding-top: 1em;
 	}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b, #footer a {
@@ -2388,8 +2389,8 @@ input, select, textarea {
 		}
 
 		#footer header.style1 {
-			padding-bottom: 6em;
-			margin-bottom: 6em;
+			padding-bottom: 3em;
+			margin-bottom: 3em;
 			border-bottom: solid 1px rgba(255, 255, 255, 0.05);
 		}
 
@@ -2402,8 +2403,8 @@ input, select, textarea {
 			}
 
 		#footer header.style2 {
-			padding-bottom: 6em;
-			margin-bottom: 6em;
+			padding-bottom: 3em;
+			margin-bottom: 3em;
 			border-bottom: solid 1px rgba(255, 255, 255, 0.05);
 		}
 
@@ -2431,7 +2432,7 @@ input, select, textarea {
 
 	#copyright {
 		text-align: center;
-		padding-top: 6em;
+		padding-top: 2em;
 		margin-top: 6em;
 		border-top: solid 1px rgba(255, 255, 255, 0.05);
 	}
